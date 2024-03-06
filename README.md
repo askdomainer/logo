@@ -1,2 +1,1 @@
-# logo
-logo.askdomainer.com
+# [logo.askdomainer.com](http://logo.askdomainer.com)
